@@ -18,7 +18,7 @@ This study proposes a predictive framework for lysine glycation sites based on m
 - ProGen2 features reduced via PCA (300 dimensions)
 - Corresponding label files
 
-**model files folder**: Includes trained base model files.Due to the large size of the pre-trained ProGen2 model, it is not uploaded to GitHub.Please download it from HuggingFace: https://huggingface.co/hugohrban/progen2-base. To ensure reproducibility given the stochastic nature of large model parameters, please set the random seed.The seed used in this study is `58`.
+**model files folder**: Includes trained base model files.Due to the large size of the pre-trained ProGen2 model, it is not uploaded to GitHub.Please download it from HuggingFace: https://huggingface.co/hugohrban/progen2-base. To ensure reproducibility given the stochastic nature of large model parameters, please set the random seed.The seed used in this study is 58.
 
 ## Model Architecture
 
