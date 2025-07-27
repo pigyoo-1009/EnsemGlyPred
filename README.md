@@ -1,6 +1,6 @@
 # EnsemGlyPred
 
-**EnsemGlyPred: A Multi-Level Framework for Lysine Glycation Site Prediction by Integrating Deep Semantic Features and Sequence Information**
+**EnsemGlyPred:Multi-level Intelligent Prediction System for Lysine Glycation Sites Integrating Deep Semantic Features and Sequence Information with Explainability Analysis Framework**
 
 This study proposes a predictive framework for lysine glycation sites based on multi-feature fusion and weighted ensemble learning. By combining traditional sequence-based features and advanced protein language model representations, the framework significantly enhances prediction accuracy and reliability.
 
